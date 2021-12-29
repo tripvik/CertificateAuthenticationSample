@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CertificateAuthenticationSampleApi", "CertificateAuthenticationSampleApi\CertificateAuthenticationSampleApi.csproj", "{CFD068C1-C94F-4BA5-8EA4-CD1428FEE4A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CertificateAuthenticationSampleClient", "CertificateAuthenticationSampleClient\CertificateAuthenticationSampleClient.csproj", "{2B6C2BBE-44CD-4497-A393-B76AD8FB0D39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFD068C1-C94F-4BA5-8EA4-CD1428FEE4A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD068C1-C94F-4BA5-8EA4-CD1428FEE4A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD068C1-C94F-4BA5-8EA4-CD1428FEE4A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD068C1-C94F-4BA5-8EA4-CD1428FEE4A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B6C2BBE-44CD-4497-A393-B76AD8FB0D39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B6C2BBE-44CD-4497-A393-B76AD8FB0D39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B6C2BBE-44CD-4497-A393-B76AD8FB0D39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B6C2BBE-44CD-4497-A393-B76AD8FB0D39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03489C6B-FDE6-489A-A291-1241E1FC02ED}
+	EndGlobalSection
+EndGlobal
